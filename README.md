@@ -1,2 +1,5 @@
-# pkmn-eng
+# Pokemon Engine
 Pokemon engine scripted in Python 2.7. My attempt at making a fan-made Pokemon game.
+## Features
+*Created Pokemon class to initialize Pokemon.
+# Change Log
