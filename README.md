@@ -6,4 +6,4 @@ Pokemon engine scripted in Python 2.7. This is my official attempt at making a P
 + Uploaded mapping tool.
 
 ## Screenshots
-<img src="http://imgur.com/HEMJ0Xn">
+<img src="http://imgur.com/HEMJ0Xn.png">
